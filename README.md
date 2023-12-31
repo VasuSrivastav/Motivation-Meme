@@ -1,4 +1,4 @@
-# Motivation-Meme
+# Motivation-Poster
 Motivation Meme Project - its a basic css based project having motivational/fun poster designing ( changed poster image as your preference)
 # Live Preview-
 https://vasusrivastav.github.io/Motivation-Meme/
